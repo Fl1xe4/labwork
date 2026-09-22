@@ -1,0 +1,6 @@
+num1 = float(input("Введіть перше значення"))
+num2 = float(input("Введіть друге значення"))
+num3 = float(input("Введіть третє значення"))
+print(f"{num1:.2f}")
+print(f"{num2:.2f}")
+print(f"{num3:.2f}")
