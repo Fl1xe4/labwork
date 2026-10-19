@@ -1,4 +1,4 @@
-num1 = int(input());
+num1 = int(input())
 num2 = int(input())
 
 n1_1 = num1 // 1000
