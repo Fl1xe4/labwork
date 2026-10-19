@@ -19,4 +19,4 @@ n2_4 = num2 % 10
 if (n2_1 != n2_2 and n2_1 != n2_3 and n2_1 != n2_4 and n2_2 != n2_3 and n2_2 != n2_4 and n2_3 != n2_4):
     print(True)
 else:
-    print(False)
+    print(False) 
